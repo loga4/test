@@ -1,0 +1,63 @@
+2020-03-25T08:01:12+00:00	{"i":1638,"cid":644,"eid":3,"type":"1a305377e4d88cf0a3dc0dccda2728c0"}
+2020-03-25T08:01:13+00:00	{"i":1638,"cid":644,"eid":1,"type":"3d57a4721363d86f3fdfbfcd9f9d26e5"}
+2020-03-25T08:01:14+00:00	{"i":1638,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0"} - retry event bad network
+2020-03-25T08:01:15+00:00	{"i":1638,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0","retry":0} - retry event bad network
+2020-03-25T08:01:16+00:00	{"i":1638,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0","retry":1}
+2020-03-25T08:01:17+00:00	{"i":1638,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b"} - retry event bad network
+2020-03-25T08:01:18+00:00	{"i":1638,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b","retry":0} - retry event bad network
+2020-03-25T08:01:19+00:00	{"i":1638,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b","retry":1}
+2020-03-25T08:01:21+00:00	{"i":1638,"cid":644,"eid":5,"type":"241881a2b7a10f3c077fe67fa21f7ebb"}
+2020-03-25T08:01:22+00:00	{"i":1827,"cid":644,"eid":3,"type":"1a305377e4d88cf0a3dc0dccda2728c0"}
+2020-03-25T08:01:23+00:00	{"i":1827,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b"} - retry event bad network
+2020-03-25T08:01:24+00:00	{"i":1827,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b","retry":0} - retry event bad network
+2020-03-25T08:01:25+00:00	{"i":1827,"cid":644,"eid":4,"type":"1385d6f617c87849327d6a75f466989b","retry":1}
+2020-03-25T08:01:26+00:00	{"i":1827,"cid":644,"eid":1,"type":"3d57a4721363d86f3fdfbfcd9f9d26e5"}
+2020-03-25T08:01:27+00:00	{"i":1827,"cid":644,"eid":5,"type":"241881a2b7a10f3c077fe67fa21f7ebb"}
+2020-03-25T08:01:28+00:00	{"i":1827,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0"} - retry event bad network
+2020-03-25T08:01:29+00:00	{"i":1827,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0","retry":0} - retry event bad network
+2020-03-25T08:01:30+00:00	{"i":1827,"cid":644,"eid":2,"type":"68284b9d906461ed4779b2667cd428e0","retry":1}
+2020-03-25T08:01:31+00:00	{"i":2951,"cid":644,"eid":5,"type":"369e6896987501d43430142070310bde"}
+2020-03-25T08:01:32+00:00	{"i":2951,"cid":644,"eid":1,"type":"8b746db2a0b048afc416d006d9833b70"}
+2020-03-25T08:01:33+00:00	{"i":2951,"cid":644,"eid":2,"type":"35cebcadada4135577ef0011f768334a"} - retry event bad network
+2020-03-25T08:01:34+00:00	{"i":2951,"cid":644,"eid":2,"type":"35cebcadada4135577ef0011f768334a","retry":0} - retry event bad network
+2020-03-25T08:01:35+00:00	{"i":2951,"cid":644,"eid":2,"type":"35cebcadada4135577ef0011f768334a","retry":1}
+2020-03-25T08:01:37+00:00	{"i":2951,"cid":644,"eid":4,"type":"e3f864c5356974ca99ce9517ad343901"} - retry event bad network
+2020-03-25T08:01:38+00:00	{"i":2951,"cid":644,"eid":4,"type":"e3f864c5356974ca99ce9517ad343901","retry":0} - retry event bad network
+2020-03-25T08:01:39+00:00	{"i":2951,"cid":644,"eid":4,"type":"e3f864c5356974ca99ce9517ad343901","retry":1}
+2020-03-25T08:01:40+00:00	{"i":2951,"cid":644,"eid":3,"type":"557aa376147584debc6bf328f8665dd5"}
+2020-03-25T08:01:41+00:00	{"i":4113,"cid":644,"eid":5,"type":"eb3b9b7da6129d0ddb56fe3cbe2ffe9e"}
+2020-03-25T08:01:42+00:00	{"i":4113,"cid":644,"eid":3,"type":"58593852a54d696b07059659facab5a3"}
+2020-03-25T08:01:43+00:00	{"i":4113,"cid":644,"eid":1,"type":"8a1e63b5a5b5cbcb6a9264d8e1d82316"}
+2020-03-25T08:01:44+00:00	{"i":4113,"cid":644,"eid":4,"type":"d9f5012921916956485bd265d52660f5"} - retry event bad network
+2020-03-25T08:01:45+00:00	{"i":4113,"cid":644,"eid":4,"type":"d9f5012921916956485bd265d52660f5","retry":0} - retry event bad network
+2020-03-25T08:01:46+00:00	{"i":4113,"cid":644,"eid":4,"type":"d9f5012921916956485bd265d52660f5","retry":1}
+2020-03-25T08:01:47+00:00	{"i":4113,"cid":644,"eid":2,"type":"834cd56833b225fe1f24b5643531e3c1"} - retry event bad network
+2020-03-25T08:01:48+00:00	{"i":4113,"cid":644,"eid":2,"type":"834cd56833b225fe1f24b5643531e3c1","retry":0} - retry event bad network
+2020-03-25T08:01:49+00:00	{"i":4113,"cid":644,"eid":2,"type":"834cd56833b225fe1f24b5643531e3c1","retry":1}
+2020-03-25T08:01:50+00:00	{"i":5687,"cid":644,"eid":2,"type":"2fb1658e59e62259d1fcd619599ef29a"} - retry event bad network
+2020-03-25T08:01:51+00:00	{"i":5687,"cid":644,"eid":2,"type":"2fb1658e59e62259d1fcd619599ef29a","retry":0} - retry event bad network
+2020-03-25T08:01:53+00:00	{"i":5687,"cid":644,"eid":2,"type":"2fb1658e59e62259d1fcd619599ef29a","retry":1}
+2020-03-25T08:01:54+00:00	{"i":5687,"cid":644,"eid":1,"type":"628d8e520ae624f04583adf032822f70"}
+2020-03-25T08:01:55+00:00	{"i":5687,"cid":644,"eid":3,"type":"c75580d5b2ecddfab11dd054d3d5c2d8"}
+2020-03-25T08:01:56+00:00	{"i":5687,"cid":644,"eid":4,"type":"3bbbe70a020144c9d0f8fa1900cbeb9d"} - retry event bad network
+2020-03-25T08:01:57+00:00	{"i":5687,"cid":644,"eid":4,"type":"3bbbe70a020144c9d0f8fa1900cbeb9d","retry":0} - retry event bad network
+2020-03-25T08:01:58+00:00	{"i":5687,"cid":644,"eid":4,"type":"3bbbe70a020144c9d0f8fa1900cbeb9d","retry":1}
+2020-03-25T08:01:59+00:00	{"i":5687,"cid":644,"eid":5,"type":"3e11700ab4b13263f0af008484d84c34"}
+2020-03-25T08:02:00+00:00	{"i":8838,"cid":644,"eid":2,"type":"6ce6e2c6c57aec627b6d07970aac7637"} - retry event bad network
+2020-03-25T08:02:01+00:00	{"i":8838,"cid":644,"eid":2,"type":"6ce6e2c6c57aec627b6d07970aac7637","retry":0} - retry event bad network
+2020-03-25T08:02:02+00:00	{"i":8838,"cid":644,"eid":2,"type":"6ce6e2c6c57aec627b6d07970aac7637","retry":1}
+2020-03-25T08:02:03+00:00	{"i":8838,"cid":644,"eid":3,"type":"f4ae985cda68ee58c52eddaba8e9ce1f"}
+2020-03-25T08:02:04+00:00	{"i":8838,"cid":644,"eid":1,"type":"8d6eacec31527cb4da1e2921f2d93cc9"}
+2020-03-25T08:02:05+00:00	{"i":8838,"cid":644,"eid":4,"type":"d033ab1431adae96995628720318af36"} - retry event bad network
+2020-03-25T08:02:06+00:00	{"i":8838,"cid":644,"eid":4,"type":"d033ab1431adae96995628720318af36","retry":0} - retry event bad network
+2020-03-25T08:02:07+00:00	{"i":8838,"cid":644,"eid":4,"type":"d033ab1431adae96995628720318af36","retry":1}
+2020-03-25T08:02:08+00:00	{"i":8838,"cid":644,"eid":5,"type":"b7d54593ad86bad60d0beaa265a10188"}
+2020-03-25T08:02:09+00:00	{"i":9030,"cid":644,"eid":3,"type":"4a58572277087e909cb668abf3a2cffd"}
+2020-03-25T08:02:10+00:00	{"i":9030,"cid":644,"eid":5,"type":"b9d2714738fcd7684d356e647a77065c"}
+2020-03-25T08:02:12+00:00	{"i":9030,"cid":644,"eid":1,"type":"a791448a8f7eb88a4858e91e0c4b01c8"}
+2020-03-25T08:02:13+00:00	{"i":9030,"cid":644,"eid":4,"type":"7e2030c0175f3575e96a454790b42128"} - retry event bad network
+2020-03-25T08:02:14+00:00	{"i":9030,"cid":644,"eid":4,"type":"7e2030c0175f3575e96a454790b42128","retry":0} - retry event bad network
+2020-03-25T08:02:15+00:00	{"i":9030,"cid":644,"eid":4,"type":"7e2030c0175f3575e96a454790b42128","retry":1}
+2020-03-25T08:02:16+00:00	{"i":9030,"cid":644,"eid":2,"type":"4fd3dee5c91e277160110e3187ddd9e2"} - retry event bad network
+2020-03-25T08:02:17+00:00	{"i":9030,"cid":644,"eid":2,"type":"4fd3dee5c91e277160110e3187ddd9e2","retry":0} - retry event bad network
+2020-03-25T08:02:18+00:00	{"i":9030,"cid":644,"eid":2,"type":"4fd3dee5c91e277160110e3187ddd9e2","retry":1}
